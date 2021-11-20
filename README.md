@@ -96,36 +96,106 @@ Lien officiel : [https://sommetaltruisme.re/](https://sommetaltruisme.re)
    de ce que le Bhoutan par exemple peut prendre en compte comme «indices de pondération»
    Il existe donc plusieurs niveaux de lecture.
    Au bhoutan, une personne ayant un certain niveau de bonheur en deça de certains seuils,
-   pourrait bénéficier de programmes spécifiques
+   pourrait bénéficier de programmes spécifiques - [Jean-François Rebeyrotte](https://sommetaltruisme.re/les-intervenants/)
  - 12:47 - Des indicateurs de discrimation sont également inclus afin de pouvoir retrouver
    des éléments corrélés entre une situation (lecture individuelle) à un indice du bonheur
+ - 12:50 - Indices globaux du bonheur des répondants selon la logique du Bhoutan, la logique personnelle
+   de la mesure individuelle à celle du territoire - Jean-François Rebeyrotte
+ - 12:52 - Souhaits 
+ - [...] - Participation de la mairesse de St-Louis (Vanessa Miranville),
+   absente du fait de sa participation au [Congrès des Maires](https://www.amf.asso.fr/m/cong_programme/)
+ - 14:30 - À propos de bonheur et Équité [...]   
+   [Théorie des possibilités](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_possibilit%C3%A9s)   
+   Théorie du bien-être comme (travail de Sen)   
+   «idiots rationnels», [A. Sen](https://en.wikipedia.org/wiki/Amartya_Sen) critique l'idée que la rationalité des préférences   
+   coïncide avec leur cohérence formelle interne [...] - Vêlayoudom Marimoutou   
+   Adam Smith est souvent présenté comme un champion égoïste   
+   (voir the [Wealth of Nations](https://en.wikipedia.org/wiki/The_Wealth_of_Nations))   
+   [...] Voir définition de [Capabilité et la théorie sous-jacente](https://fr.wikipedia.org/wiki/Capabilit%C3%A9)   
+   Voir également [Martha Nussbaum](https://en.wikipedia.org/wiki/Martha_Nussbaum)
+   Mot de la fin de V. Marimoutou :   
+   «Les politiques publiques doivent étendre les capabilités de la personne»   
+ - 14:43 - «Le bonheur dans la société : vision du politique, du biologiste, de l'économiste et d'un citoyen»   
+   Définitions : Altruisme, Compassion et [Eudémonisme](https://fr.wikipedia.org/wiki/Eud%C3%A9monisme),  
+   s'opposant à l'hédonisme  
+   Dimension du bien-être psychologique - (voir modèle de [Carol Ryff](https://en.wikipedia.org/wiki/Carol_Ryff))   
+   Eudémonisme contre Hédonisme   
+   S'intéresser aux autres permettrait d'accéder à une forme de bonheur
+   Un indicateur intéressant de bien-être consiste à découvrir comment la générosité serait corrélée 
+   au bonheur
+   Un appauvrissement en relation est très délétère pour l'organisme   
+   Prendre soin de l'autre permet de mieux gérer son stress. - A. Lutz   
+ - 14:51 - On parle d'expertise quand n'importe quelle discipline a été pratiquée   
+   pendant au moins 10k heures de pratiques.   
+   Les méditants peuvent ainsi être perçu comme ayant développé une experitise
+ - 14:54 - Différentes techniques de méditation auront un entrainement de différentes   
+   zones du cerveau [...]   
+   Voir [Silver Santé Study](https://silversantestudy.eu/)   
+   bienveillance, compassion, plein conscience,   
+   le bilinguisme posséde un effet protecteur contre La maladie d'Alzheimer par exemple   
+   La méditation peut avoir un impact sur l'expression des gènes
+   Voir également travaux de [Gaël Chételat](http://www.chetelat-lab.fr/)
+ - 15:02 - Intervention de 
+   - [Eveline Hoareau](https://sommetaltruisme.re/les-intervenants/)
+   - [Martine Huitelec](https://www.linkedin.com/in/martine-huitelec-7449a016a/),  
+     femme, mère depuis peu, engagée dans l'éducation ayant reçu 2 prix nationaux :
+     - Prix Résilience post confinement en 2020
+     - Prix Impulsions académique en 2019
+   - Antoine Lutz,
+     Le cerveau donne priorité aux informations et à propos du sentiment de colère,   
+     il pourra donner priorité à la gestion d'un danger en re-mobilisant ses ressources à disposition.   
+     Cependant un poids trop important pourra peut-être attribué à une information,   
+     au détriment d'autres informations.   
+     En pleine conscience, on aura la possibilité d'être un peu plus flexible afin d'être capable de réguler   
+     ses réactions en réponse à des événements
+     Relation du bonheur au travail (pleine conscience dans le monde du travail) - notamment à Grenobles
+     - [Paix économique](https://www.grenoble-em.com/paix-economique)
+     - [Covid-19: The Experts at GEM foresee major changes](https://en.grenoble-em.com/news-covid-19-experts-gem-foresee-major-changes)
+   - Vêlayoudom Marimoutou, 
+   - Rodolphe Sinimale
+     «Pour moi, il était impossible d'être malheureux» [...]
+     La résilience ne vient pas nécessairement avec le grand âge bien qu'il existe une grande résilience émotionnelle [...]
+     «Parler d'amour», quelque chose qu'on entend pas souvent et particulièrement dans le cadre de cet événement [...]   
+     ainsi qu'ici avec notamment des personnalités politiques au sommet de l'altruisme [...]   
+     Avec le BNB, on parle ici de perception (de la santé) en plus de s'être lancé dans une démarche scientifique,
+     quant à la poursuite du bien-être ainsi que du bonheur - Eveline Hoareau   
+     «On ne peut pas rendre les enfants heureux d'un simple souhait naïf»   
+     On ne apprend pas nécessairement à avoir confiance en nous,   
+     ni à exprimer que c'est bien (célébration ?) - Martine Huitelec
+     Le chemin de la résilience, ainsi que celui de la perception positive sont des chemins différents   
+     (discussion avec A. Lutz)
+     On ne peut pas arriver à résoudre les problèmes auxquels nous faisons face en étant seul.   
+     Nos leviers sont
+     - acceptation de l'existence de différents cheminements, 
+     - possibilité de faire usage d'un effet de levier du collectif
    
 ## Intervenants
 
  - [Gilbert Annette](https://en.wikipedia.org/wiki/Gilbert_Annette)
  - [Ericka Bareigts](https://en.wikipedia.org/wiki/Ericka_Bareigts)
  - [Maya Cesari](https://www.linkedin.com/in/maya-cesari-2574982a/) l
-   Directrice scientifique chez CYROI
-   Voir également :
-   - [CIROY](https://technopole-reunion.com/en/adherent/cyroi/)
-   - [QualiREG](https://www.qualireg.org/)
+   Directrice scientifique chez [CYROI](https://technopole-reunion.com/en/adherent/cyroi/)
  - [Pascale Chabanet](http://umr-entropie.ird.nc/index.php/team/pascale-chabanet)
    Représentante de l’IRD à La Réunion depuis 2013
+ - [Martine Huitelec](https://twitter.com/martinehuitelec) 
  - [Gilles Lajoie](https://re.linkedin.com/in/gilles-lajoie-40245356)
-   Voir également [mandat de ???](https://www.univ-reunion.fr/fileadmin/Fichiers/communication/01_Internet/3_-_Luniversite/17_Presidence/Lettre_de_mission/LM-EP-2021-2025/LM_PDT_CAC.pdf)
  - [Charles Lesquelin](https://fr.artscad.com/@/CharlyLesquelin)
  - [Antoine Lutz](http://brainimaging.waisman.wisc.edu/~lutz/)
+ - [Vêlayoudom Marimoutou](https://fr.wikipedia.org/wiki/V%C3%AAlayoudom_Marimoutou)
+ - [Vanessa Miranville](https://fr.m.wikipedia.org/wiki/Vanessa_Miranville)
  - [Rodolphe Sinimale](https://www.linkedin.com/in/rodolphe-sinimale-3b0665161/)
  - [Valérie Verdier](https://www.ird.fr/women-science-webinaire-autour-des-femmes-scientifiques-inspirantes-en-thailande)
    Présidente-directrice générale de l'IRD
 
-## Liens externes
+## Liens
 
- - [Gross National Happiness](https://en.wikipedia.org/wiki/Gross_National_Happiness)
- - [Société des nations](https://www.un.org/fr/about-us/history-of-the-un/predecessor)
- - [L’initiative du vivre mieux : mesurer le bien-être et le progrès](https://www.oecd.org/fr/statistiques/initiative-vivre-mieux.htm)
- - [Sommet de l’altruisme : programme et intervenants](https://www.reunionnaisdumonde.com/magazine/actualites/sommet-de-l-altruisme-programme-et-intervenants/)
- - [Sangpo Thubten](https://www.temoignages.re/chroniques/alon-filozofe/les-richesses-de-la-pensee-creole-reunionnaise,92394)
- - [World Happiness Report 2021](https://worldhappiness.report/)
- - [Mindfulness meditation in the Israel Defense Forces: Effect on cognition and satisfaction with life–A randomized controlled trial](https://www.sciencedirect.com/science/article/abs/pii/S1876382017300100)
+ - [Carol Ryff](https:// en.wikipedia.org/wiki/Carol_Ryff)
  - [Direction Générale de l'Energie, des Mines et des Ressources en Eau](https://www.pseau.org/outils/organismes/organisme_detail.php?org_organisme_id=27869&l=fr)
+ - [John F. Helliwell](https://en.wikipedia.org/wiki/John_F._Helliwell) 
+ - [Société des nations](https://www.un.org/fr/about-us/history-of-the-un/predecessor)
+ - [Gross National Happiness](https://en.wikipedia.org/wiki/Gross_National_Happiness)
+ - [L’initiative du vivre mieux : mesurer le bien-être et le progrès](https://www.oecd.org/fr/statistiques/initiative-vivre-mieux.htm)
+ - [Mindfulness meditation in the Israel Defense Forces: Effect on cognition and satisfaction with life–A randomized controlled trial](https://www.sciencedirect.com/science/article/abs/pii/S1876382017300100)
+ - [Sangpo Thubten](https://www.temoignages.re/chroniques/alon-filozofe/les-richesses-de-la-pensee-creole-reunionnaise,92394)
+ - [Sommet de l’altruisme : programme et intervenants](https://www.reunionnaisdumonde.com/magazine/actualites/sommet-de-l-altruisme-programme-et-intervenants/)
+ - [World Happiness Report 2021](https://worldhappiness.report/)
