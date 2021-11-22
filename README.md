@@ -5,7 +5,7 @@ Lien officiel : [https://sommetaltruisme.re/](https://sommetaltruisme.re)
 ## Sujet
 
  - [Bonheur (national / réunionnais) du National Brut](https://fr.wikipedia.org/wiki/Bonheur_national_brut)
-   Indice du Bonheur Réunionnais Brut comme outil de mesure, d’évaluation et de prise de décision pour les acteurs publics
+   Indice du `Bonheur Réunionnais Brut` comme outil de mesure, d’évaluation et de prise de décision pour les acteurs publics
 
 ## Idées et notes en vrac
 
@@ -13,9 +13,10 @@ Lien officiel : [https://sommetaltruisme.re/](https://sommetaltruisme.re)
  - Laboratoire qu'on peut construire à La Réunion
    Perspectives [...] «de 15 à 20 ans de recherche» [...] - A. Lutz
  - Culture des [compétences pro-sociales](https://lesprosdelapetiteenfance.fr/bebes-enfants/psycho-pedagogie/comment-developper-les-competences-pro-sociales-des-tout-petits/les-competences-pro-sociales-quest-ce-que-cest) (amour, compassion) - R. Sinimale
- - Approche systémique de l'altruisme - E. Bareigts
+ - Vers une approche systémique de l'altruisme - E. Bareigts
  - Secret à partager : prenez soin des uns des autres 
-   afin d'avoir de meilleurs résultats à de nombreux niveaux - R. Sinimale 
+   afin d'avoir de meilleurs résultats à de nombreux niveaux (que ce soit en vue d'améliorer un compte de résultat,    
+   que l'atmosphère entre collègues de bureau ou encore faire chuter les risques d'épuisements professionnels) - R. Sinimale 
  - Intention d'agir dans chacun des moments qui passent - A. Lutz
  - Apparition des troubles psychiatriques à l'adolescence - R. Sinimale
    Voir également  
@@ -42,16 +43,16 @@ Lien officiel : [https://sommetaltruisme.re/](https://sommetaltruisme.re)
    On peut donc apprendre à ressentir l'autre, à se mettre à la place de l'autre [...]  - A. Lutz
  - 11:16 - La pensée par inférence consiste à percevoir les personnes qu'on ne voit pas nécessairement - R. Sinimale
  - 11:20 - Question d'un participant : Comment prôner les questions humaines lorsque les science dures 
-   viennent parfois écraser les humanités ? 
+   viennent parfois écraser les humanités ?   
    La bienveillance consiste également à reconnaître avant de comprendre la complexité
    de la différence des sujets et disciplines. - A. Lutz
    La [neuro-phénoménologie](https://en.wikipedia.org/wiki/Neurophenomenology) intégre peut-être ce type de réflexion.
  - 11:26 - Et si le bonheur devenait la finalité des pouvoirs politiques publics ?
  - 11:17 - Réparation d'une triple fracture écologique, sociale, avec soi-même à réparer
    (bienveillance, compassion, non-discrimination) 
- - 11:29 - Indice du BNB (Bonheur National Brut) - holistique c.a.d quantitatif et qualitatif 
+ - 11:29 - Indice du BNB (`Bonheur National Brut`) - holistique c.a.d quantitatif et qualitatif 
    - [9 domaines considérés](https://reporterre.net/Au-Bhoutan-le-bonheur-brut-est-serein-malgre-les-nuages), 
-     pilliers vérifiés auprès   de la population comprenant plusieurs aspects 
+     pilliers vérifiés auprès de la population comprenant plusieurs aspects 
      de la vie au quotidien [...] - Tshering Tobgay
      - Bien-être pyschologique
      - Santé
@@ -64,16 +65,16 @@ Lien officiel : [https://sommetaltruisme.re/](https://sommetaltruisme.re)
  - 12:18 - We need to discuss what is happening regarding what is related to violence in families
    - to develop a Nation-wide conscience?
    - There are many initiatives going in the direction of anonymously collected of data,
-     regarding physical abuse happening in Bhutan [...]
+     regarding physical abuse happening in Bhutan for instance [...]
      Victims of domestic abuse should have a place where to go to [...] 
    - [...] Not sure that primitives societies were that happy ... - Tshering Tobgay
-     Many people could be anxious about many things but being blissfully 
+     Many people could be anxious about many things but being blissfully content nonetheless
      - could bring a sense of contentment,
      - to live a more enlightened life
    - [...] Economies have grown as never before in many countries,
      Where / when do we stop when we want to keep growing economically? 
      [...] as we've seen growth as the very single objective so far.
- - 12:26 - Last word:  Many people say happiness is a "hard work",  
+ - 12:26 - Last word:  Many people say happiness is a `"hard work"`,  
     and so is economic progress.
     R. Sinimale didn't give up for 2 years so that this event (Sommet de l'altruisme) would come to life,  
     which is an instance of what is feasible in accordance with many people  
@@ -82,7 +83,8 @@ Lien officiel : [https://sommetaltruisme.re/](https://sommetaltruisme.re)
  - 12:30 - [...] Nous au tout début d'un processus. [...] 
     L'idée serait d'organiser la démarche administrative afin de ne pas être dans une démarche jugeante  
     afin d'accompagner des individus ou organisations à développer des compétences servant au bonheur collectif,      
-    avec par exemple [l'école du bonheur](https://www.service-civique.gouv.fr/missions/ambassadrice-ambassadeur-de-lecole-du-bonheur)     en accord avec le gouvernement et l'éducatioin - Ericka Bareigts
+    avec par exemple [l'école du bonheur](https://www.service-civique.gouv.fr/missions/ambassadrice-ambassadeur-de-lecole-du-bonheur)  
+    en accord avec le gouvernement et l'éducation - Ericka Bareigts
  - 12:35 - Mon bonheur dépend du bonheur des personnes présentes à côté de moi  
  - 12:38 - Mesurer le bonheur - présentation de la méthode et des calculs effectués 
    et comparés à des seuils en deça desquels on n'est pas heureux et au-dessus desquels,
@@ -102,7 +104,7 @@ Lien officiel : [https://sommetaltruisme.re/](https://sommetaltruisme.re)
  - 12:50 - Indices globaux du bonheur des répondants selon la logique du Bhoutan, la logique personnelle
    de la mesure individuelle à celle du territoire - Jean-François Rebeyrotte
  - 12:52 - Souhaits 
- - [...] - Participation de la mairesse de St-Louis (Vanessa Miranville),
+ - [...] - Participation de la mairesse de La Possession ([Vanessa Miranville](https://fr.wikipedia.org/wiki/Vanessa_Miranville)),
    absente du fait de sa participation au [Congrès des Maires](https://www.amf.asso.fr/m/cong_programme/)
  - 14:30 - À propos de bonheur et Équité [...]   
    [Théorie des possibilités](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_possibilit%C3%A9s)   
@@ -136,7 +138,7 @@ Lien officiel : [https://sommetaltruisme.re/](https://sommetaltruisme.re)
    La méditation peut avoir un impact sur l'expression des gènes
    Voir également travaux de [Gaël Chételat](http://www.chetelat-lab.fr/)
  - 15:02 - Intervention de 
-   - [Eveline Hoareau](https://sommetaltruisme.re/les-intervenants/)
+   - [Evelyn Hoarau](https://sommetaltruisme.re/les-intervenants/)
    - [Martine Huitelec](https://www.linkedin.com/in/martine-huitelec-7449a016a/),  
      femme, mère depuis peu, engagée dans l'éducation ayant reçu 2 prix nationaux :
      - Prix Résilience post confinement en 2020
@@ -158,7 +160,7 @@ Lien officiel : [https://sommetaltruisme.re/](https://sommetaltruisme.re)
      «Parler d'amour», quelque chose qu'on entend pas souvent et particulièrement dans le cadre de cet événement [...]   
      ainsi qu'ici avec notamment des personnalités politiques au sommet de l'altruisme [...]   
      Avec le BNB, on parle ici de perception (de la santé) en plus de s'être lancé dans une démarche scientifique,
-     quant à la poursuite du bien-être ainsi que du bonheur - Eveline Hoareau   
+     quant à la poursuite du bien-être ainsi que du bonheur - Evelyn Hoarau   
      «On ne peut pas rendre les enfants heureux d'un simple souhait naïf»   
      On ne apprend pas nécessairement à avoir confiance en nous,   
      ni à exprimer que c'est bien (célébration ?) - Martine Huitelec
@@ -168,24 +170,62 @@ Lien officiel : [https://sommetaltruisme.re/](https://sommetaltruisme.re)
      Nos leviers sont
      - acceptation de l'existence de différents cheminements, 
      - possibilité de faire usage d'un effet de levier du collectif
-   
+ - 15:47 - Escola (étymologie - le lieu où on s'amuse, où on s'arrête de travailler) 
+ - 15:49 - Place des neurosciences dans le monde de l'éducation nationale :
+   En France, il existe un intérêt avec des expérimentations locale. 
+   À l'étranger (Grande-Bretagne), des cohortes importantes existent notamment dans le domaine de la plein conscience  
+   avec notamment des programmes de pleine conscience et de bienveillance
+   En France, on peut parfois découvrir des limites à la laïcité lorsque des initiatives  
+   pouvant être connotées pourraient ne pas avoir lieu afin d'éviter de faire entrer dans le domaine public 
+   des éléments parfois teintés de traits religieux.
+ - 15:53 - Dans la prévention de la rechute de dépression par les mécanismes de pleine conscience,  
+   Se relier différement aux représentations de soi et schémas ruminatifs peuvent être à une mise à distance   
+   relativement au mental et permettent dans le cadre du traitement de la suicidalité, d'amener du changement positif.   
+   Des choses changent avec le rapport et la définition du patient (rapport au médicament), psychiatrie plus humaniste,   
+   amenant à faire confiance au patient et à le voir davantage comme un partenaire.
+ - 16:01 - Lien entre coeur, estomac, réseaux neuronaux ?   
+   Bien qu'on parle d'état affectif, on renvoit plutôt à des réseaux du système limbique (cerveau) - A. Lutz
+ - 16:04 - Mots de la fin   
+   Everyone is on board to drive this project  
+   This project is an introduction to the island [..] for me [...] 
+   and since there were several conferences about [Growth National Happiness](https://en.wikipedia.org/wiki/Gross_National_Happiness) all around the world,
+   there could be a conference in France as well   
+   There could be connections to be made with the [GNH Centre Bhutan](https://www.gnhcentrebhutan.org/) [...]   
+   Happiness begins at home, follows at school.   
+   Schooling and education should be of the highest possible quality.   
+   There should not be financial pressure when it comes to educating the children.   
+   In Bhutan, schooling is free because the country recognizes the importance of school.   
+   The government implemented GNH policies from there   
+   The next step is about companies and the [GNH for business](https://www.bhutanstudies.org.bt/tag/gnh-of-business/) - Tshering Tobgay
+
 ## Intervenants
 
  - [Gilbert Annette](https://en.wikipedia.org/wiki/Gilbert_Annette)
- - [Ericka Bareigts](https://en.wikipedia.org/wiki/Ericka_Bareigts)
- - [Maya Cesari](https://www.linkedin.com/in/maya-cesari-2574982a/) l
+ - [Ericka Bareigts](https://en.wikipedia.org/wiki/Ericka_Bareigts)  
+   Maire de la Ville de Saint-Denis chez Mairie de Saint-Denis de La Réunion
+ - [Maya Cesari](https://www.linkedin.com/in/maya-cesari-2574982a/)  
    Directrice scientifique chez [CYROI](https://technopole-reunion.com/en/adherent/cyroi/)
- - [Pascale Chabanet](http://umr-entropie.ird.nc/index.php/team/pascale-chabanet)
+ - [Pascale Chabanet](http://umr-entropie.ird.nc/index.php/team/pascale-chabanet)  
    Représentante de l’IRD à La Réunion depuis 2013
- - [Martine Huitelec](https://twitter.com/martinehuitelec) 
- - [Gilles Lajoie](https://re.linkedin.com/in/gilles-lajoie-40245356)
- - [Charles Lesquelin](https://fr.artscad.com/@/CharlyLesquelin)
- - [Antoine Lutz](http://brainimaging.waisman.wisc.edu/~lutz/)
- - [Vêlayoudom Marimoutou](https://fr.wikipedia.org/wiki/V%C3%AAlayoudom_Marimoutou)
+ - [Jaëla Devakarne](https://www.linkedin.com/in/jaëla-devakarne-5b636612/)  
+   Coordinatrice ISOPOLIS chez IRD
+ - [Evelyn Hoarau](https://sommetaltruisme.re/les-intervenants/) 
+   Représentante de la société civile et éducatrice sportive depuis 23 ans
+ - [Martine Huitelec](https://twitter.com/martinehuitelec)  
+   [Référente académique Évaluation des Écoles](https://twitter.com/IEN_STANDRE_974) 
+ - [Gilles Lajoie](https://re.linkedin.com/in/gilles-lajoie-40245356)  
+   Président du Conseil académique de l'Université de La Réunion
+ - [Charly Lesquelin](https://fr.artscad.com/@/CharlyLesquelin)  
+   [Artiste peintre](https://sommetaltruisme.re/les-artistes/)
+ - [Antoine Lutz](http://brainimaging.waisman.wisc.edu/~lutz/)  
+   Neurobiologiste
+ - [Vêlayoudom Marimoutou](https://fr.wikipedia.org/wiki/V%C3%AAlayoudom_Marimoutou)  
+   Professeur de Sciences Economiques
  - [Vanessa Miranville](https://fr.m.wikipedia.org/wiki/Vanessa_Miranville)
  - [Rodolphe Sinimale](https://www.linkedin.com/in/rodolphe-sinimale-3b0665161/)
+ - [Tshering Tobgay](www.tsheringtobgay.com)
  - [Valérie Verdier](https://www.ird.fr/women-science-webinaire-autour-des-femmes-scientifiques-inspirantes-en-thailande)
-   Présidente-directrice générale de l'IRD
+   Présidente-directrice générale de l'[IRD](https://twitter.com/V_Verdier_IRD)
 
 ## Liens
 
