@@ -229,7 +229,7 @@ Lien officiel : [https://sommetaltruisme.re/](https://sommetaltruisme.re)
 
 ## Liens
 
- - [Carol Ryff](https:// en.wikipedia.org/wiki/Carol_Ryff)
+ - [Carol Ryff](https://en.wikipedia.org/wiki/Carol_Ryff)
  - [Direction Générale de l'Energie, des Mines et des Ressources en Eau](https://www.pseau.org/outils/organismes/organisme_detail.php?org_organisme_id=27869&l=fr)
  - [John F. Helliwell](https://en.wikipedia.org/wiki/John_F._Helliwell) 
  - [Société des nations](https://www.un.org/fr/about-us/history-of-the-un/predecessor)
